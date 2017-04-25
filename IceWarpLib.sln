@@ -16,7 +16,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceWarpLib.Rpc", "IceWarpLi
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "wwwroot", "..\wwwroot\", "{44334CBE-5C93-4F5C-A078-781737BF84F6}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		ProjectReferences = "{2ec8bc82-e41c-490e-9887-77529dc9e6bd}|IceWarpLib.Objects.dll;{87007c89-ecde-4130-aa26-5af14b251379}|IceWarpLib.Rpc.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_42714"
 		Debug.AspNetCompiler.PhysicalPath = "..\wwwroot\"
